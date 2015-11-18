@@ -29,3 +29,8 @@ New users can be confident that the history of successes and failures has not be
 
 The contract is the same for everyone and as such, the administrator of the application has no way of getting early results, if the contract is written properly. 
 
+## The case for te crowd
+
+It is not possible to get crowd wisdom without the crowd. But also, the transaction fees will be much lower if the buying is pooled.
+
+Ideally we should have an account with a bank or a trader to enable rapid order execution. 
