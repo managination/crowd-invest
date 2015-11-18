@@ -13,7 +13,7 @@ Use the wisdom of crowds to make investment decisions and store the data in [Eth
 
 ## The case for the blockchain
 
-Like any applicatoin, this could be done with a regular database. So why on earth would we wnat to store data and logic on a blockchain?
+Like any applicatoin, this could be done with a regular database. So why on earth would we want to store data and logic on a blockchain?
 
 ### Guaranteed logic
 
