@@ -3,7 +3,7 @@ Use the wisdom of crowds to make investment decisions and store the data in [Eth
 
 ## Principles
 
-- Create a contract with a question. E.g. how much will the Apple share be worth in 2 weeks?
+- Create a contract with a question. E.g. `how much will the Apple share be worth in 2 weeks?`
 - Enroll 500 people to give an educated guess and pledge a minimum amount of money to back their opinion
 - Keep the answers secret until the end of the poling period which can vary from 1 day to 1 month
 - If at the end of the polling period enough guesses were submitted, the decision is made based on their average
